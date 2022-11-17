@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Submission Story App</string>
+    <string name="start_point">Start Point</string>
+    <string name="logo_app">Logo App</string>
+    <string name="masukkan_email">Masukkan Email</string>
+    <string name="masukkan_password">Masukkan Password</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="buat_akun">Buat Akun</string>
+    <string name="belum_punya_akun">Belum Punya Akun?</string>
+    <string name="login_u">Login</string>
+    <string name="sudah_punya_akun">Sudah Punya Akun?</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="upload_story">Upload Story</string>
+    <string name="gambar_story">Gambar Story</string>
+    <string name="camera">Camera</string>
+    <string name="galery">Galery</string>
+    <string name="masukkan_deskripsi">Masukkan Deskripsi</string>
+    <string name="add_story">Add Story</string>
+    <string name="loading">Loading...</string>
+    <string name="logout">Logout</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
